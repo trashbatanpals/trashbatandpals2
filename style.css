@@ -54,7 +54,7 @@ text-align: center;
   }
 
   .tbandp2-title {
-    font-family: "grobold";
+    font-family: "groboldregular";
     color: black;
     font-weight: bold;
     line-height: 1.5;
@@ -62,7 +62,7 @@ text-align: center;
   }
 
   .tbandp3-title {
-    font-family: "grobold";
+    font-family: "groboldregular";
     color: black;
     font-weight: bold;
   }
@@ -110,7 +110,7 @@ text-align: center;
 }
 
   .classybtn2{
-    font-family: "grobold";
+    font-family: "groboldregular";
     border-color: black;
     color: black;
 
@@ -181,7 +181,7 @@ padding:2% 5%;
 
 
 .tbandp-title {
-  font-family: "grobold";
+  font-family: "groboldregular";
   color: black;
   font-weight: bold;
   font-size: 4rem;
