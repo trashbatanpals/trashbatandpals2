@@ -53,10 +53,18 @@ text-align: center;
   line-height: 1.5;
   }
 
+  .tbandp-Podcast {
+    font-family: "groboldregular";
+    color: black;
+    font-weight: bold;
+    line-height: 1.5;
+    }
+
   .tbandp2-title {
     font-family: "groboldregular";
     color: black;
     font-weight: bold;
+    font-size: 3rem;
     line-height: 1.5;
     padding-bottom: 1%;
   }
